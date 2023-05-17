@@ -1,0 +1,21 @@
+Home Page
+  Header  
+    New User Button
+    Hide Disabled User bıtton
+    Save User button
+  Left Half(Saved User Table)
+    ID column
+    User Name column
+    Email column
+    Enabled(true-false) column
+  Right Side(Registeration)
+    Header(New User)
+    Username input
+    Display Name input
+    Phone input
+    Email İnput
+    User Roles(Guest-Admin-SuperAdmin) input
+    Enabled Button
+    
+   
+    
